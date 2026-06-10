@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/counting-tears-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Counting Tears In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-tears-in-bed/) |
+| **Get License** | [Get a Licensing Quote for Counting Tears In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-tears-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0f4a33e0e594537bce8292ea71e9124c8f9778b36a63c33252a97a3f15f5257d` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
