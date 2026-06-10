@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/counting-tears-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Counting Tears In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-tears-in-bed/) |
+| **Get License** | [License this song: Counting Tears In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-tears-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I watch the moonlight shining on the floor
+> Always wanting you a little more
+> Counting tears in bed until you're near
+> Craving the sweet whisper I need to hear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
